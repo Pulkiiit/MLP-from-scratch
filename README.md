@@ -1,5 +1,7 @@
 # MLP-from-Scratch: A Tiny Autograd Engine + Neural Network in Pure Python
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Pulkiiit/MLP-from-scratch/blob/main/NN_from_scratch.ipynb)
+
 This project is a fully functional neural network (Multi-Layer Perceptron) implemented from scratch in Python — no libraries like PyTorch or TensorFlow are used for the core logic.
 
 ## Key features
