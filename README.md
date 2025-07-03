@@ -20,7 +20,9 @@ A 3-4-4-1 MLP trained on a small synthetic dataset.
 - Manual Training Loop: Forward pass → loss → backward → weight update.
 
 ## Sample Computation Graph
+![mlp-graph](mlp_graph.svg)
 ## Loss Curve
+![loss-curve](loss_curve.png)
 ## Dependencies
 - Python 3.7+
 - matplotlib
