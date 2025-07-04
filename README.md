@@ -29,7 +29,8 @@ A 3-4-4-1 MLP trained on a small synthetic dataset.
 - Python 3.7+
 - matplotlib
 - graphviz
-
+- numpy
+- pytorch (Used only for validation)
 ```bash
-pip install matplotlib graphviz
+pip install matplotlib graphviz numpy
 ```
